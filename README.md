@@ -1,5 +1,7 @@
 ### About me....
+I am a Data Engineer with a solid track record of 20 years leading projects in computer assembly factories and mass consumer electronics. I have overseen the successful implementation of key projects, enhancing operational efficiency and quality.
 
+My goal is to advance into a senior role in project management within the Data Science industry, leveraging my technical expertise and leadership to drive innovation. Intrigued by continuous learning, I aim to make significant contributions to the growth and success of teams in this exciting field.
 
 Contact info:
 
