@@ -2,8 +2,11 @@
 
 
 Contact info:
+
 phone: +5492964622121
+
 email: edu2bur3@yahoo.com.ar
+
 To book a meeting: https://calendly.com/edu2bur3/30min
 
 <!--
